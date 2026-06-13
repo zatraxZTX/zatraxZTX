@@ -1,5 +1,5 @@
-<h1 align="center">Bonsoirrr, je suis Zatraxouuu</h1>
-<h3 align="center">Une développeuse fullstack 🇫🇷 qui vise l'expertise dans le domaine de la Data et de l'IA</h3>
+<h1 align="center">Bonsoirrr, je suis Lyxaeee</h1>
+<h3 align="center">Une développeuse transgenre 🏳️‍⚧️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zatraxZTX&label=Profile%20views&color=red&style=flat" alt="zatraxZTX" /> </p>
 
