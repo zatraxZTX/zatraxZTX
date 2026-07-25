@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zatraxZTX&label=Profile%20views&color=red&style=flat" alt="zatraxZTX" /> </p>
 
-- ⚡ Mon plus gros project actuellement [YouRadio](https://youradio.fr), La radio Officiel de [FlashBack FA](https://flashbackfa.fr).
+- ⚡ Mon plus gros project actuellement [YouRadio](https://youradio.fr), La radio Officiel de [FlashBack FA](https://flashbackfa.fr). (Site plus d'actualité, il refait leurs site avec l'ia)
 
 - 🌱 J'exerce actuellement **Le React** sur plusieurs project.
 
-- 💬 Demandez moi de l'aide sur **Java et React**.
+- 💬 Demandez moi de l'aide sur **Java et React** Si besoin je peux vous aider sur quelques trucs.
 
 - 📫 Comment me contacter **contact@sonosia.fr**.
 
